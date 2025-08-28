@@ -9,6 +9,12 @@
 
 int main(int argc, char **argv){
     printf("Justys Hurt! %s\n", "\nComputer Engineer");
-    
+
+int main(int argc, char **argv) {
+
+    printf("Solomon Delhay!\n");
+    printf("Robotics Engineering\n");
+    printf("Justys Hurt! %s\n", "\nComputer Engineer");
+
     return 0;
 }
