@@ -10,6 +10,6 @@
 int main(int argc, char **argv){
 
     printf("Justys Hurt! %s\n", "\nComputer Engineer");
-    
+    printf("Justys Hurt! %s\n", "\nComputer Engineer");
     return 0;
 }
